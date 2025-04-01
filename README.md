@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Flask-based REST API for managing superheroes, their powers, and the relationships between them. It allows users to retrieve heroes and their respective powers, update power descriptions, and assign powers to heroes with specific strength levels.
+This project is a Flask-based REST API for managing superheroes, their powers and the relationships between them. It allows users to retrieve heroes and their respective powers, update power descriptions and assign powers to heroes with specific strength levels.
 
 ## Features
 
@@ -36,7 +36,7 @@ Ensure you have the following installed on your system:
 
    ```sh
    git clone <repository_url>
-   cd flask-superheroes-api
+   cd phase-4-code-challenge-superheroes
    ```
 
 2. **Install dependencies and Create a virtual environment**
